@@ -7,7 +7,7 @@
 # Values in column names 
 
 raw <- read.csv("data/pew.csv", check.names = F)
-
+##making comments to file for hw 2
 head(raw)
 
 library(reshape2)
